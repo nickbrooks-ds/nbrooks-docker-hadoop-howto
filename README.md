@@ -66,7 +66,7 @@ To ensure that everything succeeded and is working as expected, run the followin
 docker ps
 ```
 
-![Screenshot 2024-05-31 at 1.06.50 PM.png](W3%20HW%20dffb11a742f74974917875081ce97f16/Screenshot_2024-05-31_at_1.06.50_PM.png)
+![Screenshot 2024-05-31 at 1.06.50 PM.png](main/step4.png)
 
 You should see 5 different images running on your machine: namenode, resourcemanager, datanode, historyserver, and nodemanager.
 
