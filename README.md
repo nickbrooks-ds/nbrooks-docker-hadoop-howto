@@ -189,6 +189,6 @@ head /app/res/test-1-output/part-r-00000
 
 This will display the results of the output file. If everything went according to plan, you should see results that resemble:
 
-![Screenshot 2024-05-31 at 1.03.00 PM.png](W3%20HW%20dffb11a742f74974917875081ce97f16/Screenshot_2024-05-31_at_1.03.00_PM.png)
+![Screenshot 2024-05-31 at 1.03.00 PM.png](step11.png)
 
 If your results appear similarly, with words and counts next to them, congratulations! You have successfully run Hadoop in Docker! This is a momentous occasion that calls for celebration, you earned it! 👏
